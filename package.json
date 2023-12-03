@@ -2,22 +2,14 @@
   "name": "vixshan",
   "version": "1.0.0",
   "description": "",
-  "main": "./assets/js/update.js",
-  "type": "module",
   "scripts": {
-    "test": "node ./assets/js/update.js",
-    "start": "pm2 start ./assets/js/update.js --name bento && pm2 save && pm2 logs",
-    "dev": "nodemon ./assets/js/update.js",
-    "update": "git pull && npm i && npm run format && npm run dev",
-    "format": "prettier --write ."
+    "u": "git pull && npm i",
+    "f": "prettier --write ."
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "prettier": "^3.0.3"
-  },
-  "devDependencies": {
-    "nodemon": "^3.0.1"
   }
 }
