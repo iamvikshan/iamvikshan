@@ -30,8 +30,9 @@
 </p>
 
 I am highly interested in growing my knowledge in computer science, really passionate, through more projects, internships and positions. If you're interested in more, feel free to check out my blog posts and reach out!
-  * [Personal Blog](https://vikshan.me)
-  * Email: vixshan@icloud.com
+
+- [Personal Blog](https://vikshan.me)
+- Email: vixshan@icloud.com
 <br>
 <br>
 <br>
@@ -41,16 +42,15 @@ I am highly interested in growing my knowledge in computer science, really passi
   <summary>🧑 More about me</summary>
   <img align="right" width="38%" src="media/catgirl.png"/>
 
-- 🧞 I'm a Tech Enthusiast since childhood.
-- 🔭 I’m currently working on discord.js bots.
-- 👯 I’m looking to collaborate on open-source projects esp discord bot development.
-- 💡 Contributing to Open Source Projects is always been a goal to me.
-- 🤝 I’m looking for help with **finding projects to contribute to!**
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: hold up, ngs- 🔭 I’m currently on a journey to build **great** things
-- 🌱 I’m currently learning **everything** 🤓
-- 💬 Ask me about **open source, web development, and community management**
-
+* 🧞 I'm a Tech Enthusiast since childhood.
+* 🔭 I’m currently working on discord.js bots.
+* 👯 I’m looking to collaborate on open-source projects esp discord bot development.
+* 💡 Contributing to Open Source Projects is always been a goal to me.
+* 🤝 I’m looking for help with **finding projects to contribute to!**
+* 😄 Pronouns: he/him
+* ⚡ Fun fact: hold up, ngs- 🔭 I’m currently on a journey to build **great** things
+* 🌱 I’m currently learning **everything** 🤓
+* 💬 Ask me about **open source, web development, and community management**
 
 <h2>✨ <u>Tech stack currently using:</u></h2>
 <br>
@@ -85,7 +85,7 @@ I am highly interested in growing my knowledge in computer science, really passi
 <br>
 <br>
 
-------
+---
 
 <h1 style="text-align: center; font-weight: bold;">🔥 Github Stats</h1>
 
