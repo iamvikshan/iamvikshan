@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.youtube.com/@vixshan"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/vikkshan"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://twitter.com/itsvikshan"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/uMgS9evnmv" alt="Join our community"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -118,7 +118,7 @@ I am highly interested in growing my knowledge in computer science, really passi
   <a href="https://discordapp.com/users/929835843479302204">
    <img align="left" alt=" Vikshan | Discord" width="24px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
   </a>
-  <a href="https://twitter.com/vikkshan">
+  <a href="https://twitter.com/itsvikshan">
     <img align="left" alt="Vikshan | Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>
   <a href="https://www.instagram.com/vixshan/">
@@ -149,4 +149,4 @@ I am highly interested in growing my knowledge in computer science, really passi
   <p align="right" > <img src="https://komarev.com/ghpvc/?username=vixshan&label=Profile%20views&color=0e75b6&style=flat" alt="Ratheshan03" /> </p>
   <br>
   
-<p align="right" > Created with 🖤 by <a href="https://github.com/vixshan">Vikshan</a></p>
+<p align="right" > Created with 🖤,🎶&☕ by <a href="https://github.com/vixshan">Vikshan</a></p>
