@@ -40,7 +40,7 @@ I am highly interested in growing my knowledge in computer science, really passi
 <br>
 <details>
   <summary>🧑 More about me</summary>
-  <a href="https://app.daily.dev/vikshan"><img align="right" src="https://api.daily.dev/devcards/v2/QXGxOWlGSR4396EUj0pBP.png?type=default&r=h6q" width="38%" height="100%" alt="Vikshan Bossman's Dev Card"/></a>
+  <a href="https://app.daily.dev/vikshan"><img align="right" src="./devcard.png" width="38%" height="100%" alt="Vikshan's Dev Card"/></a>
 
 * 🧞 I'm a Tech Enthusiast since childhood.
 * 🔭 I’m currently working on discord.js bots.
