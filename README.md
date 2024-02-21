@@ -96,7 +96,7 @@ I am highly interested in growing my knowledge in computer science, really passi
 </p>
 
 <a> 
-  <a href="https://github.com/vixshan"><img alt="Vikshan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=vixshan&show_icons=true&count_private=true&theme=radical&border_color=7F3FBF&bg_color=0D1117" height="192px" width="49.5%"/>
+  <a href="https://github.com/vixshan"><img alt="Vikshan's Github Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/vixshan?cardType=level&theme=radical&preferLogin=false&Background=0D1117&Border=7F3FBF" height="192px" width="49.5%"/>
   </a>
   <a href="https://github.com/vixshan"><img alt="Vikshan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vixshan&langs_count=8&layout=compact&theme=radical&border_color=7F3FBF&bg_color=0D1117" height="192px" width="49.5%"/>
   </a>
