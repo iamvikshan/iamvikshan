@@ -96,22 +96,22 @@ I am highly interested in growing my knowledge in computer science, really passi
 </p>
 
 <a> 
-  <a href="https://github.com/vixshan"><img alt="Vikshan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=vixshan&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+  <a href="https://github.com/vixshan"><img alt="Vikshan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=vixshan&show_icons=true&count_private=true&theme=radical&border_color=7F3FBF&bg_color=0D1117" height="192px" width="49.5%"/>
   </a>
-  <a href="https://github.com/vixshan"><img alt="Vikshan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vixshan&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+  <a href="https://github.com/vixshan"><img alt="Vikshan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vixshan&langs_count=8&layout=compact&theme=radical&border_color=7F3FBF&bg_color=0D1117" height="192px" width="49.5%"/>
   </a>
-  <br/>
-</a>
+ <br>
+  <br>
+<p align="center">
+  <a href="https://github.com/vixshan">
+    <img width=800 src="https://github-profile-trophy.vercel.app/?username=vixshan&column=9&theme=radical&no-frame=true" style="display:block; margin:auto;"/>
+  </a>
+</p>
 
 <a href="https://github.com/vixshan"><img alt="Vikshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vixshan&theme=react-dark&radius=8&area=true" />
 </a>
 
 <br>
-<p style="text-align:center;">
-  <a href="https://github.com/vixshan">
-    <img width=800 src="https://github-profile-trophy.vercel.app/?username=vixshan&column=9&theme=tokyonight&no-frame=true" style="display:block; margin:auto;"/>
-  </a>
-</p>
 
 <h4> Connect with me 🤝 and support me :heart: :<h4>
   </hr>
