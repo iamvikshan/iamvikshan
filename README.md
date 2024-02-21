@@ -2,10 +2,6 @@
 <p align="center">
   <a href="https://github.com/vixshan/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Be.D+Science+Undergraduate;Discord+Bot+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
-<a href="https://discord.gg/uMgS9evnmv">
-  <img src="media/brunettegirl.jpg" width="100%" style="border-radius: 15px;" height="auto"/>
-</a>
-
 <p align="center">
   <a href="https://www.youtube.com/@vixshan"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -19,7 +15,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.patreon.com/vikshan"><img width="32px" alt="Patreon" title="Patreon" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
-<a href="https://open.spotify.com/user/31zt3ygo6rjgutfoupz3zvfmcxhu?si=f9aa816e6f064d01"><img align="right" alt="Spotify recently played" src="https://spotify-recently-played-readme.vercel.app/api?user=31zt3ygo6rjgutfoupz3zvfmcxhu&count=5&width=350" /></a>
+
+ <a href="https://app.daily.dev/vikshan"><img align="right" src="./devcard.png" width="50%" height="50%" alt="Vikshan's Dev Card"/></a>
+ 
 <p align="center">
   <em>
     Heys👋
@@ -29,18 +27,12 @@
   </em>
 </p>
 
-I am highly interested in growing my knowledge in computer science, really passionate, through more projects, internships and positions. If you're interested in more, feel free to check out my blog posts and reach out!
-
-- [Personal Blog](https://vikshan.me)
-- Email: vixshan@icloud.com
-<br>
-<br>
-<br>
+I am highly interested in growing my knowledge in computer science, really passionate, through more projects, internships and positions. If you're interested in more, feel free to check out my [blog posts](https://blog.vikshan.tech) and reach out via [email](mailto:info@vikshan.tech)!
 <br>
 <br>
 <details>
   <summary>🧑 More about me</summary>
-  <a href="https://app.daily.dev/vikshan"><img align="right" src="./devcard.png" width="38%" height="100%" alt="Vikshan's Dev Card"/></a>
+<a href="https://open.spotify.com/user/31zt3ygo6rjgutfoupz3zvfmcxhu?si=f9aa816e6f064d01"><img align="right" alt="Spotify recently played" src="https://spotify-recently-played-readme.vercel.app/api?user=31zt3ygo6rjgutfoupz3zvfmcxhu&count=4&width=350" /></a>
 
 * 🧞 I'm a Tech Enthusiast since childhood.
 * 🔭 I’m currently working on discord.js bots.
