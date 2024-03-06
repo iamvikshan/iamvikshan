@@ -16,7 +16,7 @@
   <a href="https://www.patreon.com/vikshan"><img width="32px" alt="Patreon" title="Patreon" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
 
- <a href="https://app.daily.dev/vikshan"><img align="right" src="./devcard.png" width="50%" height="50%" alt="Vikshan's Dev Card"/></a>
+ <a href="https://app.daily.dev/vikshan"><img align="right" src="./assets/img/devcard.png" width="50%" height="50%" alt="Vikshan's Dev Card"/></a>
  
 <p align="center">
   <em>
