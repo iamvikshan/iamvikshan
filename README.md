@@ -3,9 +3,9 @@
   <a href="https://github.com/vixshan/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Be.D+Science+Undergraduate;Discord+Bot+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
 <p align="center">
-  <a href="https://www.youtube.com/@vixshan"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.youtube.com/@vikshan"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/itsvikshan"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://twitter.com/iamvikshan"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/uMgS9evnmv" alt="Join our community"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -110,13 +110,13 @@ I am highly interested in growing my knowledge in computer science, really passi
   <a href="https://discordapp.com/users/929835843479302204">
    <img align="left" alt=" Vikshan | Discord" width="24px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
   </a>
-  <a href="https://twitter.com/itsvikshan">
+  <a href="https://twitter.com/iamvikshan">
     <img align="left" alt="Vikshan | Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>
-  <a href="https://www.instagram.com/vixshan/">
+  <a href="https://www.instagram.com/iamvikshan/">
     <img align="left" alt="Vikshan | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
-   <a href="https://www.facebook.com/vixshan">
+   <a href="https://www.facebook.com/iamvikshan">
     <img align="left" alt="Vikshan | Facebook" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
   </a>
    <a href="https://wa.me/+254113034647">
