@@ -1,7 +1,6 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
-  ░▒▓█ Hi there, meet Vikshan █▓▒░
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Hi%20there,%20I'm%20Vikshan&animation=twinkling&textBg=false&reversal=true&fontColor=8A2BE2"/>
+</p>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=4000&color=00FF00&center=true&vCenter=true&width=500&lines=Be.D+Science+Undergraduate;Discord+Bot+Developer;DS+%7C+AI+%7C+ML+Enthusiast;Aspiring+Learner" alt="Typing SVG" />
@@ -202,9 +201,12 @@ internships and positions. Check out my [blog posts](https://blog.vikshan.tech) 
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vixshan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://hit.yhype.me/github/profile?user_id=103361575" alt="Profile views"/>
   <br/>
   <br/>
   Created with 🖤, 🎶 & ☕ by <a href="https://github.com/vixshan">Vikshan</a>
   <br/>
 </div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
