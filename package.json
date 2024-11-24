@@ -1,0 +1,14 @@
+{
+  "name": "vixshan",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "f": "prettier --write \"**/*.*\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.0.3"
+  }
+}
