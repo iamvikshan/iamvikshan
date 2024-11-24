@@ -1,13 +1,18 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, meet Vikshan</h1>
-<p align="center">
-  <a href="https://github.com/vixshan/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Be.D+Science+Undergraduate;Discord+Bot+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
-</p>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
+  ░▒▓█ Hi there, meet Vikshan █▓▒░
+</h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=4000&color=00FF00&center=true&vCenter=true&width=500&lines=Be.D+Science+Undergraduate;Discord+Bot+Developer;DS+%7C+AI+%7C+ML+Enthusiast;Aspiring+Learner" alt="Typing SVG" />
+</div>
+
 <p align="center">
   <a href="https://www.youtube.com/@vikshan"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/iamvikshan"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/uMgS9evnmv" alt="Join our community"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.gg/uMgS9evnmv"><img width="32px" src="https://i.imgur.com/OViZO8J.png" alt="Join our community"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/vikshan"><img width="32px" alt="Dev.to" title="Vikshan Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -16,70 +21,135 @@
   <a href="https://www.patreon.com/vikshan"><img width="32px" alt="Patreon" title="Patreon" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
 
- <a href="https://app.daily.dev/vikshan"><img align="right" src="./assets/img/devcard.png" width="50%" height="50%" alt="Vikshan's Dev Card"/></a>
- 
-<p align="center">
+<div align="right">
+  <a href="https://app.daily.dev/vikshan">
+    <img align="right" src="./assets/img/devcard.png" width="45%" alt="Vikshan's Dev Card"/>
+  </a>
+</div>
+
+<div align="left">
+  <pre align="center">
+   ┌──────────────────────────┐
+   │   Hey there, gamers! 👋  │
+   └──────────────────────────┘
   <em>
-    Heys👋
-    <br>
-    I'm <b>Vikshan</b>, a Kenyan full-stack developer and enthusiast about Discord and breaking things!
-    I am a third year <b>Education(Science)</b> undergraduate majoring in math and physics, ironic, right? I study in <a href="https://www.ku.ac.ke"> <b>Kenyatta University</b>, Kenya</a>.
+    I'm <b>Vikshan</b>, a Kenyan full-stack developer and 
+    enthusiast about Discord and breaking things!
+    Currently a third year <b>Education(Science)</b> undergraduate 
+    majoring in math and physics at <a href="https://www.ku.ac.ke"><b>Kenyatta University</b>, Kenya</a>.
   </em>
-</p>
+  </pre>
+</div>
+<br/>
+<div align="center">
+  
+  <h1>🎮 About Me 🎮 </h1>
+  
+</div>
 
-I am highly interested in growing my knowledge in computer science, really passionate, through more projects, internships and positions. If you're interested in more, feel free to check out my [blog posts](https://blog.vikshan.tech) and reach out via [email](mailto:info@vikshan.tech)!
-<br>
-<br>
-<details>
-  <summary>🧑 More about me</summary>
-<a href="https://open.spotify.com/user/31zt3ygo6rjgutfoupz3zvfmcxhu?si=f9aa816e6f064d01"><img align="right" alt="Spotify recently played" src="https://spotify-recently-played-readme.vercel.app/api?user=31zt3ygo6rjgutfoupz3zvfmcxhu&count=4&width=350" /></a>
-
-* 🧞 I'm a Tech Enthusiast since childhood.
-* 🔭 I’m currently working on discord.js bots.
-* 👯 I’m looking to collaborate on open-source projects esp discord bot development.
-* 💡 Contributing to Open Source Projects is always been a goal to me.
-* 🤝 I’m looking for help with **finding projects to contribute to!**
-* 😄 Pronouns: he/him
-* ⚡ Fun fact: hold up, ngs- 🔭 I’m currently on a journey to build **great** things
-* 🌱 I’m currently learning **everything** 🤓
-* 💬 Ask me about **open source, web development, and community management**
-
-<h2>✨ <u>Tech stack currently using:</u></h2>
-<br>
-<code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
-<code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
-<code><a href="https://id.heroku.com/login" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku"  height="30"></a></code>
-<code><a href="https://nodejs.org/en/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
-<code><a href="https://www.json.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/json/json-icon.svg"></a></code>
-
-<h2>🌱 <u>Looking forward to learn:</u></h2>
-<br>
-<code><a href="https://flutter.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></a></code>
-<code><a href="https://reactjs.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
-<code><a href="https://nextjs.org/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg/120px-Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg.png"></a></code>
-<code><a href="https://www.w3schools.com/html/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
-<code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
-<code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
-<code><a href="https://firebase.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
-<code><a href="https://colab.research.google.com/" target="_blank"><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></a></code>
-<code><a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="30"></a></code>
-<code><a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"  height="30"></a></code>
-<code> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="30"/> </a> </code>
-<code><a href="https://cloud.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
-<code><a href="https://analytics.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg"></a></code>
-<code><a href="https://www.tensorflow.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></a></code>
-<code><a href="https://azure.microsoft.com/en-us/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></a></code>
-<code><a href="https://opencv.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></a></code>
-<code><a href="https://pytorch.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></a></code>
-<code><a href="https://aws.amazon.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
-</details>
-<br>
-<br>
+I am highly interested in growing my knowledge in computer science through more projects,
+internships and positions. Check out my [blog posts](https://blog.vikshan.tech) and reach out via
+[email](mailto:info@vikshan.tech)!
 
 ---
 
-<h1 style="text-align: center; font-weight: bold;">🔥 Github Stats</h1>
+<div align="left">
+  <pre align="center">
+┌──────────── PLAYER STATS ────────────┐
+│ 🧞 Tech Enthusiast since childhood   │
+│ 🔭 Working on discord.js bots        │
+│ 👯 Open for collaboration            │
+│ 💡 Open Source Contributor           │
+│ 🤝 Looking to help others            │
+│ 😄 Pronouns: he/him                  │
+│ ⚡ Currently building great things    │
+└──────────────────────────────────────┘
+  </pre>
+</div>
+<br/>
+<div align="right">
+    <table>
+      <tr>
+        <th colspan="5" align="center">⚔️ Tech Stack ⚔️</th>
+      </tr>
+      <tr align="center">
+        <td>
+          <a href="https://www.javascript.com/" target="_blank">
+            <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><br/>
+            JavaScript
+          </a>
+        </td>
+        <td>
+          <a href="https://www.typescriptlang.org/" target="_blank">
+            <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"><br/>
+            TypeScript
+          </a>
+        </td>
+        <td>
+          <a href="https://bun.sh/" target="_blank">
+            <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bun/bun-original.svg"><br/>
+            Bun
+          </a>
+        </td>
+        <td>
+          <a href="https://astro.build/" target="_blank">
+            <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg"><br/>
+            Astro
+          </a>
+        </td>
+        <td>
+          <a href="https://nodejs.org/en" target="_blank">
+            <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"><br/>
+            Node.js
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <th colspan="5" align="center">🎯 Learning Quest 🎯</th>
+      </tr>
+      <tr align="center">
+        <td>
+          <a href="https://flutter.org/en" target="_blank">
+            <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"><br/>
+            Flutter
+          </a>
+        </td>
+        <td>
+          <a href="https://dart.org/en" target="_blank">
+            <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"><br/>
+            Dart
+          </a>
+        </td>
+        <td>
+          <a href="https://www.w3schools.com/html/" target="_blank">
+            <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><br/>
+            HTML5
+          </a>
+        </td>
+        <td>
+          <a href="https://tailwindcss.com/" target="_blank">
+            <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"><br/>
+            Tailwind
+          </a>
+        </td>
+        <td>
+          <a href="https://www.tensorflow.org/" target="_blank">
+            <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"><br/>
+            TensorFlow
+          </a>
+        </td>
+      </tr>
+    </table>
+  </div>
+<br/>
+
+---
+
+<div align="center">
+  
+  <h1>🏆 Achievement Unlocked: Github Stats 🏆</h1>
+  
+</div>
 
 <p align="center">
   <a href="https://github.com/vixshan">
@@ -87,58 +157,54 @@ I am highly interested in growing my knowledge in computer science, really passi
   </a>
 </p>
 
-<a> 
-  <a href="https://github.com/vixshan"><img alt="Vikshan's Github Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/vixshan?cardType=level&theme=radical&preferLogin=false&Background=0D1117&Border=7F3FBF" height="192px" width="49.5%"/>
-  </a>
-  <a href="https://github.com/vixshan"><img alt="Vikshan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vixshan&langs_count=8&layout=compact&theme=radical&border_color=7F3FBF&bg_color=0D1117" height="192px" width="49.5%"/>
-  </a>
- <br>
-  <br>
+<a href="https://github.com/vixshan">
+  <img alt="Vikshan's Github Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/vixshan?cardType=level&theme=radical&preferLogin=false&Background=0D1117&Border=7F3FBF" height="192px" width="49.5%"/>
+</a>
+<a href="https://github.com/vixshan">
+  <img alt="Vikshan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vixshan&langs_count=8&layout=compact&theme=radical&border_color=7F3FBF&bg_color=0D1117" height="192px" width="49.5%"/>
+</a>
+<br/>
+<div align="center">
+  ═══════════════ ACHIEVEMENTS ═══════════════
+</div>
+<br/>
 <p align="center">
   <a href="https://github.com/vixshan">
-    <img width=800 src="https://github-profile-trophy.vercel.app/?username=vixshan&column=9&theme=radical&no-frame=true" style="display:block; margin:auto;"/>
+    <img width=800 src="https://github-profile-trophy.vercel.app/?username=vixshan&column=9&theme=radical&no-frame=true"/>
   </a>
 </p>
 
-<a href="https://github.com/vixshan"><img alt="Vikshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vixshan&theme=react-dark&radius=8&area=true" />
+<a href="https://github.com/vixshan">
+  <img alt="Vikshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vixshan&theme=react-dark&radius=8&area=true"/>
 </a>
+<br/>
+<br/>
+<div align="center">
+  ═══════════════ 🎮 Connect & Support Me 🎮 ═══════════════
+</div>
+<br/>
+<p align="center">
+  <a href="https://discordapp.com/users/929835843479302204"><img width="24px" src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg"/></a>
+  &#8287;&#8287;
+  <a href="https://twitter.com/iamvikshan"><img width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"/></a>
+  &#8287;&#8287;
+  <a href="https://www.instagram.com/iamvikshan/"><img width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/></a>
+  &#8287;&#8287;
+  <a href="https://www.facebook.com/iamvikshan"><img width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg"/></a>
+  &#8287;&#8287;
+  <a href="https://patreon.com/vikshan"><img width="26px" src="https://www.vectorlogo.zone/logos/patreon/patreon-tile.svg"/></a>
+  &#8287;&#8287;
+  <a href="https://www.paypal.com/donate/?hosted_button_id=Z9PSR8AE282JQ"><img width="26px" src="https://www.vectorlogo.zone/logos/paypal/paypal-icon.svg"/></a>
+  &#8287;&#8287;
+  <a href="https://ko-fi.com/vikshan"><img width="26px" src="https://www.vectorlogo.zone/logos/ko-fi/ko-fi-icon.svg"/></a>
+  &#8287;&#8287;
+  <a href="https://github.com/sponsors/vixshan"><img width="26px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"/></a>
+</p>
 
-<br>
-
-<h4> Connect with me 🤝 and support me :heart: :<h4>
-  </hr>
-  <a href="https://discordapp.com/users/929835843479302204">
-   <img align="left" alt=" Vikshan | Discord" width="24px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
-  </a>
-  <a href="https://twitter.com/iamvikshan">
-    <img align="left" alt="Vikshan | Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
-  </a>
-  <a href="https://www.instagram.com/iamvikshan/">
-    <img align="left" alt="Vikshan | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
-  </a>
-   <a href="https://www.facebook.com/iamvikshan">
-    <img align="left" alt="Vikshan | Facebook" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
-  </a>
-   <a href="https://wa.me/+254113034647">
-    <img align="left" alt="Vikshan | WhatsApp" width="26px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" />
-  </a>
-  <a href="https://t.me/vixshan">
-    <img align="left" alt="Vikshan | Telegram" width="26px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
-  </a>
-  <a href="https://patreon.com/vikshan">
-    <img align="left" alt="Vikshan | Patreon" width="26px" src="https://www.vectorlogo.zone/logos/patreon/patreon-tile.svg" />
-  </a>
-  <a href="https://www.paypal.com/donate/?hosted_button_id=Z9PSR8AE282JQ">
-    <img align="left" alt="Vikshan | PayPal" width="26px" src="https://www.vectorlogo.zone/logos/paypal/paypal-icon.svg" />
-  </a>
-  <a href="https://ko-fi.com/vikshan">
-    <img align="left" alt="Vikshan | Ko-Fi" width="26px" src="https://www.vectorlogo.zone/logos/ko-fi/ko-fi-icon.svg" />
-  </a>
-  <a href="https://github.com/sponsors/vixshan">
-    <img align="left" alt="Vikshan | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
-  </a>
-  <br>
-  <p align="right" > <img src="https://komarev.com/ghpvc/?username=vixshan&label=Profile%20views&color=0e75b6&style=flat" alt="Ratheshan03" /> </p>
-  <br>
-  
-<p align="right" > Created with 🖤,🎶&☕ by <a href="https://github.com/vixshan">Vikshan</a></p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=vixshan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <br/>
+  <br/>
+  Created with 🖤, 🎶 & ☕ by <a href="https://github.com/vixshan">Vikshan</a>
+  <br/>
+</div>
