@@ -151,16 +151,16 @@ internships and positions. Check out my [blog posts](https://blog.vikshan.tech) 
 </div>
 
 <p align="center">
-  <a href="https://github.com/vixshan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vixshan&theme=radical&border=7F3FBF&background=0D1117" alt="Vikshan's GitHub streak"/>
+  <a href="https://github.com/iamvikshan">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamvikshan&theme=radical&border=7F3FBF&background=0D1117" alt="Vikshan's GitHub streak"/>
   </a>
 </p>
 
-<a href="https://github.com/vixshan">
-  <img alt="Vikshan's Github Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/vixshan?cardType=level&theme=radical&preferLogin=false&Background=0D1117&Border=7F3FBF" height="192px" width="49.5%"/>
+<a href="https://github.com/iamvikshan">
+  <img alt="Vikshan's Github Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/iamvikshan?cardType=level&theme=radical&preferLogin=false&Background=0D1117&Border=7F3FBF" height="192px" width="49.5%"/>
 </a>
-<a href="https://github.com/vixshan">
-  <img alt="Vikshan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=vixshan&langs_count=8&layout=compact&theme=radical&border_color=7F3FBF&bg_color=0D1117" height="192px" width="49.5%"/>
+<a href="https://github.com/iamvikshan">
+  <img alt="Vikshan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=iamvikshan&langs_count=8&layout=compact&theme=radical&border_color=7F3FBF&bg_color=0D1117" height="192px" width="49.5%"/>
 </a>
 <br/>
 <div align="center">
@@ -168,13 +168,13 @@ internships and positions. Check out my [blog posts](https://blog.vikshan.tech) 
 </div>
 <br/>
 <p align="center">
-  <a href="https://github.com/vixshan">
-    <img width=800 src="https://github-profile-trophy.vercel.app/?username=vixshan&column=9&theme=radical&no-frame=true"/>
+  <a href="https://github.com/iamvikshan">
+    <img width=800 src="https://github-profile-trophy.vercel.app/?username=iamvikshan&column=9&theme=radical&no-frame=true"/>
   </a>
 </p>
 
-<a href="https://github.com/vixshan">
-  <img alt="Vikshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=vixshan&theme=react-dark&radius=8&area=true"/>
+<a href="https://github.com/iamvikshan">
+  <img alt="Vikshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=iamvikshan&theme=react-dark&radius=8&area=true"/>
 </a>
 <br/>
 <br/>
@@ -197,14 +197,14 @@ internships and positions. Check out my [blog posts](https://blog.vikshan.tech) 
   &#8287;&#8287;
   <a href="https://ko-fi.com/vikshan"><img width="26px" src="https://www.vectorlogo.zone/logos/ko-fi/ko-fi-icon.svg"/></a>
   &#8287;&#8287;
-  <a href="https://github.com/sponsors/vixshan"><img width="26px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"/></a>
+  <a href="https://github.com/sponsors/iamvikshan"><img width="26px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"/></a>
 </p>
 
 <div align="center">
   <img src="https://hit.yhype.me/github/profile?user_id=103361575" alt="Profile views"/>
   <br/>
   <br/>
-  Created with 🖤, 🎶 & ☕ by <a href="https://github.com/vixshan">Vikshan</a>
+  Created with 🖤, 🎶 & ☕ by <a href="https://github.com/iamvikshan">Vikshan</a>
   <br/>
 </div>
 <p align="center">
