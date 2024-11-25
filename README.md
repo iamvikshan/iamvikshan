@@ -22,7 +22,7 @@
 
 <div align="right">
   <a href="https://app.daily.dev/vikshan">
-    <img align="right" src="./assets/img/devcard.png" width="45%" alt="Vikshan's Dev Card"/>
+    <img align="right" src="./assets/devcard.png" width="45%" alt="Vikshan's Dev Card"/>
   </a>
 </div>
 

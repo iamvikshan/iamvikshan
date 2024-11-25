@@ -6,6 +6,7 @@ on:
       - main
   schedule:
     - cron: "0 0 * * *"
+
 jobs:
   devcard:
     runs-on: ubuntu-latest
@@ -19,3 +20,5 @@ jobs:
           commit_filename: assets/devcard.png
           commit_message: "chore: update ${filename}"
           type: wide
+          committer_name: ${{ github.actor }}
+          committer_email: ${{ github.actor }}@users.noreply.github.com
