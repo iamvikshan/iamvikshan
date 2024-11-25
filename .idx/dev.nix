@@ -8,6 +8,7 @@
   packages = [
     pkgs.bun
     pkgs.git
+    pkgs.sudo
   ];
 
   idx = {
@@ -17,6 +18,7 @@
       "esbenp.prettier-vscode"
       "eamodio.gitlens"
       "oven.bun-vscode"
+      "WakaTime.vscode-wakatime"
     ];
 
     # Workspace lifecycle hooks

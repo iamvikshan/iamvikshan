@@ -30,8 +30,8 @@ jobs:
 
       - name: Set environment variables
         run: |
-          echo "REPO_NAME=${GITHUB_REPOSITORY#*/}" >> $GITHUB_ENV
-          echo "GITLAB_PROJECT_PATH=vikshan/${GITHUB_REPOSITORY#*/}" >> $GITHUB_ENV
+          echo "REPO_NAME=vikshan" >> $GITHUB_ENV
+          echo "GITLAB_PROJECT_PATH=vikshan/vikshan" >> $GITHUB_ENV
 
       - name: Check and Create GitLab Repository
         env:
