@@ -1,8 +1,8 @@
-@import url("basic.css");
+@import url('basic.css');
 
 @font-face {
   font-family: Poppins;
-  src: url("../fonts/Poppins.ttf");
+  src: url('../fonts/Poppins.ttf');
 }
 
 * {
@@ -270,7 +270,7 @@ iframe {
   grid-template-columns: repeat(2, 1fr);
   margin: 1rem auto;
 
-  background-image: url("../img/tp_background.webp");
+  background-image: url('../img/tp_background.webp');
   background-size: contain;
   background-repeat: no-repeat;
   color: #e5e7eb;

@@ -1,15 +1,14 @@
 {
-  "name": "vixshan",
+  "name": "iamvikshan",
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "u": "git pull && npm i",
-    "f": "prettier --write ."
+    "f": "prettier --write \"**/*.*\""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "prettier": "^3.0.3"
   }
 }

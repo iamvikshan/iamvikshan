@@ -5,27 +5,28 @@
 
 version: 2
 updates:
-  - package-ecosystem: "npm"
-    directory: "/"
+  # Enable version updates for NPM
+  - package-ecosystem: 'npm'
+    directory: '/'
     schedule:
-      interval: "daily"
+      interval: 'daily'
     open-pull-requests-limit: 5
     reviewers:
-      - "vixshan"
+      - 'iamvikshan'
     labels:
-      - "dependencies"
-#    ignore:
-#      - dependency-name: "discord.js"
+      - 'dependencies'
+    # ignore:
+    #   - dependency-name: "discord.js"
+    #   - dependency-name: 'pretty-ms'
+    #   - dependency-name: 'node-fetch'
 
-version: 2
-updates:
   # Maintain dependencies for GitHub Actions
-  - package-ecosystem: "github-actions"
-    directory: "/"
+  - package-ecosystem: 'github-actions'
+    directory: '/'
     schedule:
-      interval: "daily"
+      interval: 'daily'
     open-pull-requests-limit: 5
     reviewers:
-      - "vixshan"
+      - 'iamvikshan'
     labels:
-      - "actions"
+      - 'actions'
