@@ -37,6 +37,7 @@
     Currently a third year <b>Education(Science)</b> undergraduate 
     majoring in math and physics at <a href="https://www.ku.ac.ke"><b>Kenyatta University</b>, Kenya</a>.
   </em>
+    <a href="https://wakatime.com/@8535571c-1079-48d4-ac47-11a817f61249"><img src="https://wakatime.com/badge/user/8535571c-1079-48d4-ac47-11a817f61249.svg" alt="Total time coded since Nov 24 2024" /></a>
   </pre>
 </div>
 <br/>
