@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=4000&color=00FF00&center=true&vCenter=true&width=500&lines=Be.D+Science+Undergraduate;Discord+Bot+Developer;DS+%7C+AI+%7C+ML+Enthusiast;Aspiring+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=4000&color=00FF00&center=true&vCenter=true&width=500&lines=Be.D+Science+Undergraduate;YouTuber;Discord+Bot+Developer;DS+%7C+AI+%7C+YT+%7C+Tech" alt="This is Vikshan" />
 </div>
 
 <p align="center">
@@ -34,8 +34,7 @@
   <em>
     I'm <b>Vikshan</b>, a Kenyan full-stack developer and 
     enthusiast about Discord and breaking things!
-    Currently a third year <b>Education(Science)</b> undergraduate 
-    majoring in math and physics at <a href="https://www.ku.ac.ke"><b>Kenyatta University</b>, Kenya</a>.
+    Currently in my senior year at <a href="https://www.ku.ac.ke"><b>Kenyatta University</b>, Kenya</a>.
   </em>
     <a href="https://wakatime.com/@8535571c-1079-48d4-ac47-11a817f61249"><img src="https://wakatime.com/badge/user/8535571c-1079-48d4-ac47-11a817f61249.svg" alt="Total time coded since Nov 24 2024" /></a>
   </pre>
@@ -44,7 +43,7 @@
 
 <div align="center">
   
-  <h1> Achievements Unlocked: Github Stats </h1>
+  <h1> Unlocked Achievements & Stats </h1>
   
 </div>
 
@@ -78,30 +77,10 @@
 <br/>
 <br/>
 <div align="center">
-  ═══════════════ 🎮 Connect & Support Me 🎮 ═══════════════
-</div>
-<br/>
-<p align="center">
-  <a href="https://discordapp.com/users/929835843479302204"><img width="24px" src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg"/></a>
-  &#8287;&#8287;
-  <a href="https://twitter.com/iamvikshan"><img width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"/></a>
-  &#8287;&#8287;
-  <a href="https://www.instagram.com/iamvikshan/"><img width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"/></a>
-  &#8287;&#8287;
-  <a href="https://www.facebook.com/iamvikshan"><img width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg"/></a>
-  &#8287;&#8287;
-  <a href="https://patreon.com/vikshan"><img width="26px" src="https://www.vectorlogo.zone/logos/patreon/patreon-tile.svg"/></a>
-  &#8287;&#8287;
-  <a href="https://www.paypal.com/donate/?hosted_button_id=Z9PSR8AE282JQ"><img width="26px" src="https://www.vectorlogo.zone/logos/paypal/paypal-icon.svg"/></a>
-  &#8287;&#8287;
-  <a href="https://ko-fi.com/vikshan"><img width="26px" src="https://www.vectorlogo.zone/logos/ko-fi/ko-fi-icon.svg"/></a>
-  &#8287;&#8287;
-  <a href="https://github.com/sponsors/iamvikshan"><img width="26px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"/></a>
-</p>
 
 <div align="left">
 
-  Created with 🖤, 🎶 & ☕ by <a href="https://github.com/iamvikshan">Vikshan</a> <img align="right" src="https://komarev.com/ghpvc/?username=iamvikshan&color=blueviolet&base=2000" alt="iamvikshan" />
+  Created with 🖤 & 🎶 by <a href="https://github.com/iamvikshan">Vikshan</a> <img align="right" src="https://komarev.com/ghpvc/?username=iamvikshan&color=blueviolet&base=2000" alt="iamvikshan" />
 
 </div>
 
