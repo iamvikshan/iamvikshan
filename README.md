@@ -29,12 +29,11 @@
 <div align="left">
   <pre align="center">
    ┌──────────────────────────┐
-   │   Hey there, gamers! 👋  │
+   │       Hey there! 👋      │
    └──────────────────────────┘
   <em>
-    I'm <b>Vikshan</b>, a Kenyan full-stack developer and 
-    enthusiast about Discord and breaking things!
-    Currently in my senior year at <a href="https://www.ku.ac.ke"><b>Kenyatta University</b>, Kenya</a>.
+    I'm <b>Vikshan</b>, a Kenyan full-stack developer and YouTuber and an
+    enthusiast about Tech and breaking things! Currently in my senior year at <a href="https://www.ku.ac.ke"><b>Kenyatta University</b>, Kenya</a>.
   </em>
     <a href="https://wakatime.com/@8535571c-1079-48d4-ac47-11a817f61249"><img src="https://wakatime.com/badge/user/8535571c-1079-48d4-ac47-11a817f61249.svg" alt="Total time coded since Nov 24 2024" /></a>
   </pre>
