@@ -41,113 +41,10 @@
   </pre>
 </div>
 <br/>
-<div align="center">
-  
-  <h1>🎮 About Me 🎮 </h1>
-  
-</div>
-
-I am highly interested in growing my knowledge in computer science through more projects,
-internships and positions. Check out my [blog posts](https://blog.vikshan.tech) and reach out via
-[email](mailto:info@vikshan.tech)!
-
----
-
-<div align="left">
-  <pre align="center">
-┌──────────── PLAYER STATS ────────────┐
-│ 🧞 Tech Enthusiast since childhood   │
-│ 🔭 Working on discord.js bots        │
-│ 👯 Open for collaboration            │
-│ 💡 Open Source Contributor           │
-│ 🤝 Looking to help others            │
-│ 😄 Pronouns: he/him                  │
-│ ⚡ Currently building great things    │
-└──────────────────────────────────────┘
-  </pre>
-</div>
-<br/>
-<div align="right">
-    <table>
-      <tr>
-        <th colspan="5" align="center">⚔️ Tech Stack ⚔️</th>
-      </tr>
-      <tr align="center">
-        <td>
-          <a href="https://www.javascript.com/" target="_blank">
-            <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"><br/>
-            JavaScript
-          </a>
-        </td>
-        <td>
-          <a href="https://www.typescriptlang.org/" target="_blank">
-            <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"><br/>
-            TypeScript
-          </a>
-        </td>
-        <td>
-          <a href="https://bun.sh/" target="_blank">
-            <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bun/bun-original.svg"><br/>
-            Bun
-          </a>
-        </td>
-        <td>
-          <a href="https://astro.build/" target="_blank">
-            <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg"><br/>
-            Astro
-          </a>
-        </td>
-        <td>
-          <a href="https://nodejs.org/en" target="_blank">
-            <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"><br/>
-            Node.js
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <th colspan="5" align="center">🎯 Learning Quest 🎯</th>
-      </tr>
-      <tr align="center">
-        <td>
-          <a href="https://flutter.org/en" target="_blank">
-            <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"><br/>
-            Flutter
-          </a>
-        </td>
-        <td>
-          <a href="https://dart.org/en" target="_blank">
-            <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"><br/>
-            Dart
-          </a>
-        </td>
-        <td>
-          <a href="https://www.w3schools.com/html/" target="_blank">
-            <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><br/>
-            HTML5
-          </a>
-        </td>
-        <td>
-          <a href="https://tailwindcss.com/" target="_blank">
-            <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"><br/>
-            Tailwind
-          </a>
-        </td>
-        <td>
-          <a href="https://www.tensorflow.org/" target="_blank">
-            <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"><br/>
-            TensorFlow
-          </a>
-        </td>
-      </tr>
-    </table>
-  </div>
-<br/>
-
----
 
 <div align="center">
   
-  <h1>🏆 Achievement Unlocked: Github Stats 🏆</h1>
+  <h1> Achievements Unlocked: Github Stats </h1>
   
 </div>
 
@@ -164,13 +61,14 @@ internships and positions. Check out my [blog posts](https://blog.vikshan.tech) 
   <img alt="Vikshan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=iamvikshan&langs_count=8&layout=compact&theme=radical&border_color=7F3FBF&bg_color=0D1117" height="192px" width="49.5%"/>
 </a>
 <br/>
+<br/>
 <div align="center">
   ═══════════════ ACHIEVEMENTS ═══════════════
 </div>
 <br/>
 <p align="center">
   <a href="https://github.com/iamvikshan">
-    <img width=800 src="https://github-profile-trophy.vercel.app/?username=iamvikshan&column=9&theme=radical&no-frame=true"/>
+    <img width=800 src="https://github-profile-trophy.vercel.app/?username=iamvikshan&column=9&theme=radical&no-frame=true&rank=-?"/>
   </a>
 </p>
 
@@ -201,13 +99,13 @@ internships and positions. Check out my [blog posts](https://blog.vikshan.tech) 
   <a href="https://github.com/sponsors/iamvikshan"><img width="26px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"/></a>
 </p>
 
-<div align="center">
-  <img src="https://hit.yhype.me/github/profile?user_id=103361575" alt="Profile views"/>
-  <br/>
-  <br/>
-  Created with 🖤, 🎶 & ☕ by <a href="https://github.com/iamvikshan">Vikshan</a>
-  <br/>
+<div align="left">
+
+  Created with 🖤, 🎶 & ☕ by <a href="https://github.com/iamvikshan">Vikshan</a> <img align="right" src="https://komarev.com/ghpvc/?username=iamvikshan&color=blueviolet&base=2000" alt="iamvikshan" />
+
 </div>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
