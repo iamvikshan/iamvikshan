@@ -1,0 +1,7 @@
+gitlab:
+  enabled: true
+  projectId: 64808933
+
+
+github:
+  enabled: true
