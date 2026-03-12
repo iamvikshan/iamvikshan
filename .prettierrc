@@ -30,7 +30,7 @@
       }
     },
     {
-      "files": ["Dockerfile", "*.sh"],
+      "files": ["*.sh"],
       "options": {
         "tabWidth": 4
       }

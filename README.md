@@ -32,8 +32,8 @@
    │       Hey there! 👋      │
    └──────────────────────────┘
   <em>
-    I'm <b>Vikshan</b>, a Kenyan full-stack developer and YouTuber and an
-    enthusiast about Tech and breaking things! Currently in my senior year at <a href="https://www.ku.ac.ke"><b>Kenyatta University</b>, Kenya</a>.
+    I'm <b>Vikshan</b>, a Kenyan full-stack developer, YouTuber and an
+    enthusiast about Tech and breaking things!
   </em>
     <a href="https://wakatime.com/@8535571c-1079-48d4-ac47-11a817f61249"><img src="https://wakatime.com/badge/user/8535571c-1079-48d4-ac47-11a817f61249.svg" alt="Total time coded since Nov 24 2024" /></a>
   </pre>
@@ -47,15 +47,12 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/iamvikshan">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamvikshan&theme=radical&border=7F3FBF&background=0D1117" alt="Vikshan's GitHub streak"/>
   </a>
 </p>
 
-<a href="https://github.com/iamvikshan">
   <img alt="Vikshan's Github Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/iamvikshan?cardType=level&theme=radical&preferLogin=false&Background=0D1117&Border=7F3FBF" height="192px" width="49.5%"/>
 </a>
-<a href="https://github.com/iamvikshan">
   <img alt="Vikshan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=iamvikshan&langs_count=8&layout=compact&theme=radical&border_color=7F3FBF&bg_color=0D1117" height="192px" width="49.5%"/>
 </a>
 <br/>
@@ -65,12 +62,10 @@
 </div>
 <br/>
 <p align="center">
-  <a href="https://github.com/iamvikshan">
     <img width=800 src="https://github-profile-trophy.vercel.app/?username=iamvikshan&column=9&theme=radical&no-frame=true&rank=-?"/>
   </a>
 </p>
 
-<a href="https://github.com/iamvikshan">
   <img alt="Vikshan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=iamvikshan&theme=react-dark&radius=8&area=true"/>
 </a>
 <br/>
