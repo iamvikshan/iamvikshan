@@ -16,6 +16,7 @@
   "enabledManagers": ["npm", "github-actions"],
   "timezone": "Africa/Nairobi",
   "schedule": ["after 12am and before 5am"],
+  "pinDigests": false,
   "packageRules": [
     {
       "description": "GitHub Actions updates",
@@ -24,11 +25,6 @@
       "labels": ["dependencies", "github-actions", "ci"],
       "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
       "automerge": true
-    },
-    {
-      "description": "Disable pinDigest updates",
-      "matchUpdateTypes": ["pinDigest"],
-      "enabled": false
     }
   ],
   "vulnerabilityAlerts": {
